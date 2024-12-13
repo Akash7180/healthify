@@ -31,3 +31,5 @@ API Key: Obtain an API key and store it in a .env file.
 - Get Answers: The AI will provide a comprehensive response.
 - Calculate BMI: Input your weight and height in the sidebar.
 - Interpret BMI: The app will display your BMI category.
+
+- link- https://healthfy.streamlit.app/
